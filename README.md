@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="https://github.com/Soumayadeep-Pal/back-data-redme/blob/main/branch1.gif" alt="Banner Image" />
+<p align="left">
+  <img src="https://github.com/Soumayadeep-Pal/back-data-redme/blob/main/branch1.gif" alt="Banner Image" style="width:100%; height:auto;"/>
 </p>
 <h1 align="center"> 
-  Hi, I'm [Your Name] 👋 
+  Hi, I'm Soumayadeep Pal 👋 
 </h1>
 
 <p align="center">
