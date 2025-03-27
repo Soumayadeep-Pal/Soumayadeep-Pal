@@ -1,10 +1,4 @@
 <p align="center">
   <img src="https://github.com/Soumayadeep-Pal/back-data-redme/blob/main/branch1.gif" alt="Banner Image" style="width:100%; height:auto;"/>
 </p>
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=30&pause=100&color=36000&width=1000&lines=Hi!+Developers👋;I'm+Soumayadeep+Pal+😄✌️" alt="Typing Animation" />
-</p>
-
-
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=25&letterSpacing=1.5px&pause=1000&color=F70064&width=452&height=56&lines=Hi!+I'm+Soumayadeep+%F0%9F%98%84;Let's+Code%2C+Create+%26+Innovate!%F0%9F%9A%80" alt="Typing SVG" /></a>
