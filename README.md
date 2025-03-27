@@ -2,7 +2,6 @@
   <img src="https://github.com/Soumayadeep-Pal/back-data-redme/blob/main/branch1.gif" alt="Banner Image" />
 </p>
 <h1 align="center"> 
-  <img src="https://img.icons8.com/ios-filled/50/000000/engineering.png"/> 
   Hi, I'm [Your Name] 👋 
 </h1>
 
