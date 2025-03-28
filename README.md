@@ -11,4 +11,5 @@
 - 🚀 enhancing my skill in `Frontend Development`, `Gen AI`.
 - ⚡ Always eager to learn and explore new technologies.
 - 🔍 Looking for new challenges that allow me to expand my skill set and contribute to innovative solutions.
+<img src="https://cdn.dribbble.com/userupload/20819817/file/original-390212277d150653ffaf9a428747bdce.gif" width="100%">
 ---
