@@ -16,8 +16,8 @@
 
 <table>
   <tr>
-    <td style="vertical-align: middle;">
-      <p style="margin: 0; padding: 0;">
+    <td >
+      <p >
         🏠 I am <strong>Soumayadeep Pal</strong> from Kolkata, West Bengal, India. <br><br>
         💡 Passionate about <strong>IoT | Automation | Robotics | Embedded Systems | Biomedical Instrumentation</strong> <br><br>
         💻 <strong>Tech Stack:</strong> C | Java | MATLAB | Arduino | HTML | CSS | SQL <br><br>
