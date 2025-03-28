@@ -12,3 +12,26 @@
 - ⚡ Always eager to learn and explore new technologies.
 - 🔍 Looking for new challenges that allow me to expand my skill set and contribute to innovative solutions.
 ---
+## 🚀 About Me
+
+<div style="display: grid; grid-template-columns: 2fr 1fr; align-items: center; gap: 5px;">
+  <div>
+    <p>
+      🎓 <strong>4th-year Electronics & Instrumentation Engineering Student</strong> <br>
+      💡 Passionate about <strong>IoT | Automation | Robotics | Embedded Systems | Biomedical Instrumentation</strong> <br>
+      💻 <strong>Tech Stack:</strong> C | Java | MATLAB | Arduino | HTML | CSS | SQL <br>
+      📌 <strong>Currently Learning:</strong> Advanced Embedded Systems & AI in IoT <br>
+      🎯 <strong>Goal:</strong> To build smart, innovative, and impactful technology <br>
+      📫 <strong>Connect with Me:</strong>  
+      <a href="https://www.linkedin.com/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
+      </a>
+      <a href="https://github.com/">
+        <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub">
+      </a>
+    </p>
+  </div>
+  <div>
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250px">
+  </div>
+</div>
