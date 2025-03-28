@@ -14,15 +14,17 @@
 --->
 ## 🚀 About Me
 
+## 🚀 About Me
+
 <table>
   <tr>
-    <td >
-      <p >
-        🏠 I am <strong>Soumayadeep Pal</strong> from Kolkata, West Bengal, India. <br><br>
-        💡 Passionate about <strong>IoT | Automation | Robotics | Embedded Systems | Biomedical Instrumentation</strong> <br><br>
-        💻 <strong>Tech Stack:</strong> C | Java | MATLAB | Arduino | HTML | CSS | SQL <br><br>
-        📌 <strong>Currently Learning:</strong> Advanced Embedded Systems & AI in IoT <br><br>
-        🎯 <strong>Goal:</strong> To build smart, innovative, and impactful technology <br><br>
+    <td>
+      <p>
+        🎓 <strong>4th-year Electronics & Instrumentation Engineering Student</strong> <br>
+        💡 Passionate about <strong>IoT | Automation | Robotics | Embedded Systems | Biomedical Instrumentation</strong> <br>
+        💻 <strong>Tech Stack:</strong> C | Java | MATLAB | Arduino | HTML | CSS | SQL <br>
+        📌 <strong>Currently Learning:</strong> Advanced Embedded Systems & AI in IoT <br>
+        🎯 <strong>Goal:</strong> To build smart, innovative, and impactful technology <br>
         📫 <strong>Connect with Me:</strong>  
         <a href="https://www.linkedin.com/">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
@@ -32,10 +34,11 @@
         </a>
       </p>
     </td>
-    <td style="vertical-align: middle;">
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200px" style="border: none;">
+    <td>
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250px">
     </td>
   </tr>
 </table>
+
 
 
