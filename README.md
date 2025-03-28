@@ -12,4 +12,5 @@
 - ⚡ Always eager to learn and explore new technologies.
 - 🔍 Looking for new challenges that allow me to expand my skill set and contribute to innovative solutions.
 <img src="https://cdn.dribbble.com/userupload/20819817/file/original-390212277d150653ffaf9a428747bdce.gif" width="100%">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamVwOGJuNGpjNmJ6NW5qb2tzcnkxN3Z6OWxsaTBidDlid25uZ2QyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 ---
