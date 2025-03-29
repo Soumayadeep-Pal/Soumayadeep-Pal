@@ -55,7 +55,7 @@
 </a>  
 &nbsp&nbsp&nbsp
 <a href="https://github.com/Soumayadeep-Pal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="150">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="120">
 </a> 
 </p>
 <hr>
@@ -77,6 +77,10 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Soumayadeep-Pal&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<[![](https://visitcount.itsvg.in/api?id=Soumayadeep-Pal&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Soumayadeep-Pal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🐍 Watch My Contribution Snake
+
+![Snake animation](https://github.com/Platane/Platane/blob/output/github-contribution-grid-snake.svg)
 
 ---
