@@ -60,23 +60,23 @@
 </p>
 <hr>
 
-## 🐍 Watch My Contribution Snake
-
-![Snake animation](https://github.com/Soumayadeep-Pal/Soumayadeep-Pal/blob/output/github-contribution-grid-snake.svg)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Soumayadeep-Pal&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Soumayadeep-Pal&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumayadeep-Pal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<hr>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Soumayadeep-Pal&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<hr>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<hr>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Soumayadeep-Pal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<[![](https://visitcount.itsvg.in/api?id=Soumayadeep-Pal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Soumayadeep-Pal&icon=0&color=0)](https://visitcount.itsvg.in)
