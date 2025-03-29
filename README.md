@@ -3,6 +3,13 @@
 </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=25&letterSpacing=1.5px&pause=1000&color=F70064&width=452&height=50&lines=Hi!+I'm+Soumayadeep+%E2%9C%8C%EF%B8%8F%F0%9F%98%89;Let's+Code%2C+Create+%26+Innovate!%F0%9F%9A%80" alt="Typing SVG" /></a>
 
+
+## 🐍 Let's play with Snake
+
+![Snake animation](https://github.com/Platane/Platane/blob/output/github-contribution-grid-snake.svg)
+
+<hr>
+
 ## 👨‍💻 About Me
 
 - 🏠 I am **Soumayadeep Pal** from Kolkata, West Bengal, India.
@@ -78,9 +85,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Soumayadeep-Pal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=Soumayadeep-Pal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🐍 Watch My Contribution Snake
-
-![Snake animation](https://github.com/Platane/Platane/blob/output/github-contribution-grid-snake.svg)
 
 ---
