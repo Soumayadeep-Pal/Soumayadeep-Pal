@@ -17,23 +17,23 @@
 </p>
 <hr>
 
-## 🚀 About Me  
+## 🚀 Fact 
 
-- 📃My **Resume:** [Click Here](https://drive.google.com/drive/search?q=resume) 📄  
+- 📃My **Resume:** [Click Here](https://drive.google.com/drive/folders/1IJz1z9eOsVWI5j4j_ojOB08J46L7nKfa)  
 
-🔭 **Current Project:**  
-🎯 Building a **AI Powered Bio-tech Application** 📱  
+- 🔭 **Current Project:**  🎯 Building a **AI Powered Bio-tech Application** 📱  
 
-🌱 **Learning Interests:**  
-🧠 Exploring **Gen AI** 🤖 & **Front-End Development** 🎨  
+- 🌱 **Learning Interests:**  🧠 Exploring **Gen AI** 🎨 & **Front-End Development**   
 
-👨‍💻 **My Projects:**  💡 Check them out [Here](your-projects-link) 🚀  
+- 👨‍💻 **My Projects:**  💡 Check them out [Here](your-projects-link) 🚀  
 
-💬 **Ask Me About:**  
-💻 **AI/ML**, 🎨 **Front-End Dev**, ⚡ **Data Structures**  
+- 💬 **Ask Me About:**  💻 **Arduino**, 🩺💊 **Bio-Tech**, 🤖 **Robotics** , 🛠️ **Embedded system** 
 
-📫 **Get in Touch:**  
-📩 Email me at [colddsam@gmail.com](mailto:colddsam@gmail.com)  
+- 📫 **Get in Touch:**  📩 Email me at [sree8337@gmail.com](mailto:sree8337@gmail.com)  
 
-⚡ **Fun Fact:**  
-_"The more we spread knowledge, the more we grow knowledge."_ 🌍✨  
+⚡ **Fun Fact:**  _"The best way to predict the future is to invent it."_ 🌍✨  
+<hr>
+
+## ⚙️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,matlab,c,java,py,html,css)](https://skillicons.dev)
