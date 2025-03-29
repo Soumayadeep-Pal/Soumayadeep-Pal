@@ -35,7 +35,7 @@
 
 - 💬 **Ask Me About:**  💻 **Arduino**, 🩺💊 **Bio-Tech**, 🤖 **Robotics** , 🛠️ **Embedded system** 
 
-- 📫 **Get in Touch:**  📩 Email me at [sree8337@gmail.com](mailto:sree8337@gmail.com)  
+- 📫 **Get in Touch:**  📩 Email me at [sree83337@gmail.com](mailto:sree83337@gmail.com)  
 
 ⚡ **Fun Fact:**  _"The best way to predict the future is to invent it."_ 🌍✨  
 <hr>
