@@ -42,7 +42,7 @@
 
 ## ⚙️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,matlab,c,java,py,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,matlab,c,java,mysql,py,html,css)](https://skillicons.dev)
 <hr>
 
 ## 📍 Socials
